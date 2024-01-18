@@ -6,7 +6,7 @@ I'm an aspiring programmer with a long experience in IT world. Some time ago I s
 ## Skills
 #️⃣ C#, .Net\
 🛡️ JavaScript\
-🗃️ MS SQL, MySQL, PostresSQL\
+🗃️ MS SQL, MySQL, PostgresSQL\
 🎨 HTML, CSS
 
 - 🔭 I’m currently working on this page. 
