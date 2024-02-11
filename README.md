@@ -15,10 +15,20 @@ I'm an aspiring programmer with a long experience in IT world. Some time ago I s
 
  ## Projects
  ### MEMIDŁO 
+ It's an application with mems. 
+
+It allows users to register their own accounts, and, once they are logged in, to write comments and give likes to the mems already published in the app or to add new ones to the waiting room section. Users can also edit their credentials and mems created by them.
+
+Admins are given right to move mems from the waiting room to the main page or to delete them. They can also create, edit and delete users' accounts.
+
+Superadmin is the only role who can provide users with the admin role.
+
 \
 <img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/app.JPG" width="33%"/>
 <img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/usersprofile.JPG" width="33%"/>
 <img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/adminspanel.JPG" width="33%"/>
+
+Github: 
 - 🔭 I’m currently working on this page. 
 
 
