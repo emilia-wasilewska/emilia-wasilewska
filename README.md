@@ -11,11 +11,11 @@ I'm an aspiring programmer with a long experience in IT world. Some time ago I s
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> MySQL\
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>PostgresSQL\
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>  CSS \
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> HTML
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> HTML
 
- ## Projects
- ### MEMIDŁO 
- It's an application with mems. 
+## Projects
+### MEMIDŁO 
+ It's an application with mems. It has few sections like main page, waiting room, top ten, show a random mem and find by tag.
 
 It allows users to register their own accounts, and, once they are logged in, to write comments and give likes to the mems already published in the app or to add new ones to the waiting room section. Users can also edit their credentials and mems created by them.
 
