@@ -17,6 +17,7 @@ I'm an aspiring programmer with a long experience in IT world. Some time ago I s
  ### MEMIDŁO 
  An application with mems, allowing users to create their own accounts, post mems to the waiting room, add comments and likes when looged in.
 <img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/app.JPG" width="30%"/>
+<img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/usersprofile.JPG" width="30%"/>
 - 🔭 I’m currently working on this page. 
 
 
