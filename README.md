@@ -15,10 +15,10 @@ I'm an aspiring programmer with a long experience in IT world. Some time ago I s
 
  ## Projects
  ### MEMIDŁO 
-It is an application with mems, allowing users to create their own accounts, and, when looged in, to post mems to the waiting room, add comments and likes.\
-<img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/app.JPG" widtht="30%"/>
-<img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/usersprofile.JPG" widtht="30%"/>
-<img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/adminspanel.JPG" widtht="30%"/>
+\
+<img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/app.JPG" width="33%"/>
+<img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/usersprofile.JPG" width="33%"/>
+<img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/adminspanel.JPG" width="33%"/>
 - 🔭 I’m currently working on this page. 
 
 
