@@ -14,6 +14,9 @@ I'm an aspiring programmer with a long experience in IT world. Some time ago I s
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> HTML
 
  ## Projects
+ ### MEMIDŁO 
+ An application with mems, allowing users to create their own accounts, post mems to the waiting room, add comments and likes when looged in.
+ <img scr/> <img src/> <img src/>
 - 🔭 I’m currently working on this page. 
 
 
