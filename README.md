@@ -29,8 +29,12 @@ Superadmin is the only role which can provide users with the admin role.
 <img src="https://github.com/emilia-wasilewska/emilia-wasilewska/blob/main/adminspanel.JPG" width="33%"/>
 
 Page: <a href="https://memidlo.pl/">memidlo.pl<a/>\
-<a href="https://github.com/emilia-wasilewska/Memidlo">Github<a/>
+<a href="https://github.com/emilia-wasilewska/Memidlo">Github<a/>\
+<br/>
 
+### Attribution:
+Avatar created by <a href="https://pl.freepik.com/darmowe-wektory/ladna-kobieta-pracuje-na-laptopie-z-ilustracji-wektorowych-kreskowka-ognia-technologia-ludzi-na-bialym-tle_32903761.htm#query=she%20programmer&position=41&from_view=search&track=ais&uuid=459792af-c781-440b-9136-cf8536453c20">catalyststuff<a/>\
+Banner created by <a href="https://pl.freepik.com/darmowe-wektory/cyfrowy-schemat-kodu-dla-technologii-i-sztucznej-inteligencji_1586190.htm#page=3&query=code&position=47&from_view=search&track=sph&uuid=5aecf286-c1c0-46c6-bf04-9c0982438af3">starline<a/>
 
 
 
